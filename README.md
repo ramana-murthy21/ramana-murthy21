@@ -1,18 +1,74 @@
+```
 # 💫 About Me:
-👋 Hello there, I’m Ramana Murthy<br>💻 Full-Stack Web Developer | Java & Modern Web Technologies<br><br>I’m a passionate Full-Stack Web Developer with hands-on experience in building scalable, secure, and high-performance web applications. I enjoy working across the entire stack—from crafting intuitive user interfaces to designing robust backend services and efficient databases.<br><br>🧩 Tech Stack & Skills<br>🌐 Frontend<br>HTML5, CSS3, JavaScript (ES6+)<br><br>Angular<br><br>Bootstrap, Tailwind CSS<br><br>Responsive Web Design<br><br>⚙️ Backend<br>Java (Spring Boot, Spring MVC)<br><br>Hibernate, JPA<br><br>RESTful APIs<br><br>Microservices (Basics)<br><br>🗄️ Databases<br>MySQL<br><br>PostgreSQL<br><br>Basic NoSQL (MongoDB)<br><br>🛠️ Tools & Platforms<br>Git & GitHub<br><br>Maven, Gradle<br><br>Linux (Basics)<br><br>Docker (Basics)<br><br>Postman, Swagger<br><br>📌 What I’m Currently Working On<br>Building end-to-end full-stack web applications<br><br>Improving system design & backend performance<br><br>Strengthening frontend architecture with modern UI patterns<br><br>Exploring cloud deployment for web applications<br><br>📂 Featured Projects<br>🏥 Medico Assistant – Healthcare appointment booking & digital interaction platform<br><br><br>🤝 Let’s Connect<br>📧 Email: prmurthy1999@gmail.com<br><br>⭐ “Build clean UI. Write scalable code. Deliver real value.”<br><br>
+👋 Hello there, I’m Ramana Murthy  
+💻 Full-Stack Web Developer | Java & Modern Web Technologies  
 
+I’m a passionate Full-Stack Web Developer with hands-on experience in building scalable, secure, and high-performance web applications. I enjoy working across the entire stack—from crafting intuitive user interfaces to designing robust backend services and efficient databases.  
+
+🧩 Tech Stack & Skills  
+🌐 Frontend  
+HTML5, CSS3, JavaScript (ES6+)  
+
+Angular  
+
+Bootstrap, Tailwind CSS  
+
+Responsive Web Design  
+
+⚙️ Backend  
+Java (Spring Boot, Spring MVC)  
+
+Hibernate, JPA  
+
+RESTful APIs  
+
+Microservices (Basics)  
+
+🗄️ Databases  
+MySQL  
+
+PostgreSQL  
+
+Basic NoSQL (MongoDB)  
+
+🛠️ Tools & Platforms  
+Git & GitHub  
+
+Maven, Gradle  
+
+Linux (Basics)  
+
+Docker (Basics)  
+
+Postman, Swagger  
+
+📌 What I’m Currently Working On  
+Building end-to-end full-stack web applications  
+
+Improving system design & backend performance  
+
+Strengthening frontend architecture with modern UI patterns  
+
+Exploring cloud deployment for web applications  
+
+📂 Featured Projects  
+🏥 Medico Assistant – Healthcare appointment booking & digital interaction platform  
+
+🤝 Let’s Connect  
+📧 Email: [prmurthy1999@gmail.com](mailto:prmurthy1999@gmail.com)  
+
+⭐ “Build clean UI. Write scalable code. Deliver real value.”  
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prmurthy1999@gmail.com) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ramana-murthy21&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ramana-murthy21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ramana-murthy21&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=ramana-murthy21&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramana-murthy21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ramana-murthy21&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=ramana-murthy21&icon=1&color=0)](https://visit
