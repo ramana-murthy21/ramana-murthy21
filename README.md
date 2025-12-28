@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramana Murthy</h1>
-<h3 align="center">Full-Stack Web Developer | Java | Cloud-Ready Applications</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="center">
   <a href="mailto:prmurthy1999@gmail.com">
