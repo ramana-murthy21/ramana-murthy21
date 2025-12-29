@@ -92,16 +92,28 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramana-murthy21&theme=dark&show_icons=true"/>
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ramana-murthy21&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="165"
+  />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ramana-murthy21&theme=dark"/>
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ramana-murthy21&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramana-murthy21&layout=compact&theme=dark"/>
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramana-murthy21&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
+
 
 ---
 
